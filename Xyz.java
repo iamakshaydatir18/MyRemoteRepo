@@ -4,5 +4,9 @@ public class Abc
 	{
 
          System.out.println("hello from git XYZ");
+
+		while(a>b)
+		{
+		}
 	}
 }

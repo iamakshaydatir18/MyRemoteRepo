@@ -4,5 +4,10 @@ public class Abc
 	{
 
          System.out.println("hello from git");
+
+		for(int i=0;i<10;i++)
+		{
+			System.out.println(i);
+		}
 	}
 }
